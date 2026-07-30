@@ -43,7 +43,6 @@
   color: #cfd3da;
   cursor: pointer;
   transition: color 0.2s ease;
-  text-decoration: none; 
 }
 
 .txt:hover{
